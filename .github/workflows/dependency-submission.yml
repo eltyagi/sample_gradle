@@ -2,7 +2,7 @@ name: Dependency Submission
 
 on:
   push:
-    branches: [ 'master' ]
+    branches: [ 'eltyagi-patch-1' ]
 
 permissions:
   contents: write
