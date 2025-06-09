@@ -3,6 +3,7 @@ Gradle Example
 
 This is a simple Gradle project demonstrating local and remote dependency resolution and building an executable jar.
 Sample changes
+Another change
 
 Running the example
 -------------------
